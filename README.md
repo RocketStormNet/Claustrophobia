@@ -1,4 +1,4 @@
-# Claustrophobia
+# Claustrophobia ![](https://img.shields.io/badge/ActionScript-3.0-red.svg)
 Use your arrow keys to manipulate blue ball. 
 Avoid collising with green balls, red balls and red moving squares.
 Get bonuses, earn big scores and some medals!
